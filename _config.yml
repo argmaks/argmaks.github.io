@@ -13,7 +13,7 @@ title                    : "Maksymilian Wolski"
 title_separator          : "-"
 name                     : &name "Maksymilian Wolski"
 description              : &description "PhD student in Computer Science at the University of Cambridge, working on multi-robot systems, deep reinforcement learning, and foundation models."
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://argmaks.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "argmaks/argmaks.github.io"
